@@ -4,6 +4,8 @@
 ![Licence](https://img.shields.io/github/license/remi-boivin/spy-robot-web-interface.svg?style=for-the-badge)
 ![maintainability](https://img.shields.io/codeclimate/maintainability/remi-boivin/spy-robot-web-interface.svg?style=for-the-badge)
 ![sponsors](https://img.shields.io/github/sponsors/remi-boivin.svg?style=for-the-badge)
+![maintainability](https://img.shields.io/github/pipenv/locked/python-version/remi-boivin/spy-robot-web-interface.svg?color=purple&style=for-the-badge)
+
 # Spy-robot
 ## _The best opensource spy robot_
 
